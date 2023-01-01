@@ -1,4 +1,4 @@
-import { FormValues } from "../pages/Login/interfaces";
+import { FormValues } from "../interfaces";
 import axios from "axios";
 
 const baseUrl = "https://rickandmortyapi.com/api/";
